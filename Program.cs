@@ -4,7 +4,14 @@ using System;
 namespace TeambuildingApp
 {
     /* Deze app werd gemaakt door Guy Meuris in januari 2021.
-     * 
+     * Het is een OOP oefening in het kader van mijn Syntra opleiding 'Software Developer'. 
+     * De precieze opdracht is terug te vinden in het 'OpdrachtTeambuilding.txt'-bestand.
+     * De 'TeambuildingApp' bestaat uit twee delen: eerst 3 introductievragen en vervolgens
+     * de oficiële 'ActiveBonding teambuilding applicatie'.
+     * De 3 vragen tijdens de introfase dienen om enkele dummy-gegevens in te voeren, zodat
+     * de teambuilding applicatie reeds voorzien is van een startaantal begeleiders,
+     * deelnemers, activiteiten en inschrijvingen. De gebruiker mag zelf kiezen tussen de
+     * voorgestelde aantallen.
     */
 
     /// <summary>

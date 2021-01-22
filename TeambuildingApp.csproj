@@ -3,6 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Guy Meuris</Authors>
+    <Description>Deze .Net5 console applicatie is een praktische uitwerking van een OOP oefening tijdens mijn opleiding 'Software developer', waarbij de vraag was om een 'teambuilding' applicatie te bouwen met specifieke toepassingen.
+De precieze opdracht is te vinden in het README.md bestand.</Description>
+    <RepositoryUrl>https://github.com/GuyMeuris/TeambuildingApp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
