@@ -1,5 +1,9 @@
 ﻿# Teambuilding Applicatie (Console app .Net5)
 Dit is een volledig Nederlandstalige app in het kader van een OOP oefening voor beginnende developers in C#.
+* De 'TeambuildingApp' bestaat uit twee delen: 
+     * 3 introductievragen.
+     * De oficiële 'ActiveBonding teambuilding applicatie'.
+* De 3 vragen tijdens de introfase dienen om enkele dummy-gegevens in te voeren, zodat de teambuilding applicatie reeds voorzien is van een startaantal begeleiders, deelnemers, activiteiten en inschrijvingen. De gebruiker mag zelf kiezen tussen de voorgestelde aantallen.
 ---
 ### De opdracht voor deze console applicatie was als volgt:
 Een bedrijf gespecialiseerd in het organiseren van teambuilding wil graag het volgend systeem: 
@@ -13,8 +17,18 @@ Een bedrijf gespecialiseerd in het organiseren van teambuilding wil graag het vo
 * Voorzie ook dat de gebruiker zich kan inschrijven voor een andere activiteit.
 ---
 ### Enkele snapshots uit de applicatie:
-<img src="images/intro_snapshot.png" width="400">
+* Het consolescherm met 1 van de introductievragen: 
+<img src="images/intro_snapshot.png" width="600">
+
+* Het consolescherm met het hoofdmenu:
 <img src="images/hoofdmenu_snapshot.png" width="600">
+
+* Het consolescherm met de mogelijkheid om een nieuwe activiteit aan te maken:
 <img src="images/nieuweActiviteit_snapshot.png" width="600">
-<img src="images/Inschrijvingsmenu_snapshot.png" width="500">
-<img src="images/zoekOpActiviteit_snapshot.png" width="500">
+
+* Het consolescherm met het inschrijvingsmenu:
+<img src="images/Inschrijvingsmenu_snapshot.png" width="600">
+
+* Het consolescherm waarbij je op activiteit kan zoeken naar die inschrijvingen:
+<img src="images/zoekOpActiviteit_snapshot.png" width="600">
+
