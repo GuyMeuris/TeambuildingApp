@@ -407,7 +407,7 @@ namespace TeambuildingApp
             {
                 foreach ( Tuple<Activiteiten, Begeleider> e in lijstActMetBegeleider )
                 {
-                    table.Rows.Add( e.Item1.Naam, e.Item1.IndoorOutdoor(), e.Item1.prijs:C, e.Item1.DagVanActiviteit, e.Item2.Naam );
+                    table.Rows.Add( e.Item1.Naam, e.Item1.IndoorOutdoor(), $"{e.Item1.prijs:c}", e.Item1.DagVanActiviteit, e.Item2.Naam );
                 }
             }
             return table;
